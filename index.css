@@ -1,0 +1,18 @@
+
+h1 {
+    text-align: center;
+}
+
+p {
+    color: blue;
+    font-size: 20px;
+    text-align: center;
+}
+
+.cursive {
+    font-family: cursive;
+}
+
+#picture {
+    text-align: center;
+}
